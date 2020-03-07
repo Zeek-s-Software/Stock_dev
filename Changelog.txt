@@ -1,0 +1,4 @@
+3/6/2020
+uploaded to github
+Started the Implantion of the Alpha Vantage api
+
