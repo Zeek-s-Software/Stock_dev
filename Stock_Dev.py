@@ -3,8 +3,8 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
-import matplotlib
-import numpy
+#import matplotlib
+#import numpy
 import requests
 import math
 import time
