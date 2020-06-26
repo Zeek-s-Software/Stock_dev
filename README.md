@@ -11,5 +11,5 @@ then add the Robinhood api or you can modify it to use your Brokerage.
 
 DISCLAIMER
 
-I'm not responseable for the lose of money
-You are reasponseable for your money any lawsuits will be Counter suited.
+I'm not responsible for the lose of money
+You are responsible for your money any lawsuits will be Countered.

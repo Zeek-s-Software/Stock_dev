@@ -2,3 +2,6 @@
 uploaded to github
 Started the Implantion of the Alpha Vantage api
 
+6/25/2020
+Changed the structure made the code DRY.
+
